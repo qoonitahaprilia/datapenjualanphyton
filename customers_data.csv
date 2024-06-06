@@ -1,0 +1,12 @@
+CustomerID,CustomerName,CustomerEmail
+C001,John Doe,john@example.com
+C002,Jane Smith,jane@example.com
+C003,Emily Davis,emily@example.com
+C004,Michael Brown,michael@example.com
+C005,Jessica White,jessica@example.com
+C006,David Wilson,david@example.com
+C007,Chris Johnson,chris@example.com
+C008,Amanda Taylor,amanda@example.com
+C009,Sarah Anderson,sarah@example.com
+benar_id1,Corrected Customer 1,correct1@example.com
+benar_id2,Corrected Customer 2,correct2@example.com
